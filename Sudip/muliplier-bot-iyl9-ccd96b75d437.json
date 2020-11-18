@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "muliplier-bot-iyl9",
+  "private_key_id": "ccd96b75d4371c85b23fd51a4b0917c29e9bdde9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsJhm411qdBrVV\nE8cTl+skYfIYb68cRCLrtFPwRuDjOWAM4q0Suk44IPMb+ASqm7JqXJf/reRISAv6\nk8vL6l0vnJ0ALPSOhKOFGtrQ4ndHuVX19rgZOgM87QxrCNoYilrOc+CecxF6AKJg\n3GyEGoe032ruIgd2gu9fbt7u2Vn5mqdStu6rwtGs35cIZjZX3sk3aaM6zTl9p12+\naGipnLPibPiPTiFv/5AonUp3UehKabmp6MJfXTA81cn5CDUBjSdw7dwZxviCzvtb\nJRdLletWQhfqIbrJm6Dnht/K99pd7q0z1zPnsKMw1CQrJ4VTrQHkeL216lZG92SG\nn/Xcs8w/AgMBAAECggEAHkihk8PGvAL3GV1eUxMRmZflZ+kVzAosfnx9m7JMU4y/\nWeTyf23o3rTlL5Fk+MJlE5LwZlkn5JNQECe53UiAViTd9a7y4rNwtLSxs7dzNlnj\nRl69qiprcWdeHOI0w8ZrDRCTfixN8cF0z0dXi7HDF82J2RSBbZbBF2/AphH0YxVI\nRgfmbQDJHvFDllXqBTH4+7avu6sAj4A2g+jSMLqkSON+ib68apjHEfCe8utadcjV\nRvi467Gr+auRuNkZ3JKDoY3FtEwXqTGIk2In2n2l0ueRI24S78f4z8CH5DWMTBJP\ncDsLSg0tKO/77sYuDd1DISG1noE0OV4BoJPNsF75sQKBgQDvPiTgX+HycY3Rfh6O\n0u5L+2SezuOk/9wEwXzLeGOUu6simjZ9ePh6oSPbDq6GkfrTRAbJG5Wq5VoY5wJl\n8jO/BDmz0dfW2+7NhbdL1ecd5kwo3E7zFAN4l2e3fWy9fiJ8qH6lz88c+YkpxM1j\npdeaD7Cuzp858U/wtJqxb69sCQKBgQC4NOWf9mg66/Nd8OwBx5k+Bi4by58OL2TZ\nfB/nf/FxrNXJ2bUohUo9MYECb/s3PUz4NeuRjwpudo7S1bIrZSP6fJ2dGWteYDcp\nIMxWfgVOQfznufkY+39Ruy+egVZufE5o7sTFIxWF/c0fr+oRPxdD8Hl7DwWX3qze\n220GVk8YBwKBgQCFM/uCNcBupUzJzEelS8nD4ld2mEhlENPmjfg2rXP8VrUFEgmu\nuJDYbimxiK4hXNvjjuecR1CAkywj21MZgc3P18Fs3jQne9Ks+XtBrPn+SsAyq98F\nNipslRf5MMs/giAfegzxsw9k2YbGC74zch3luECuQ3qh3zqcEWJj0oRASQKBgALv\n7P1o+259FqtXzRuWKC5iANg2nfmm7c+99/BEDQCIBfyq+QWFYpKpOGpmiLXvx0tp\n6LCwfDUYtNxNxgKFIVa8J/M6VYjytc51FG0Io2MFEFhNkdhBIl2WQ4MegtdOKh3o\nOMD/9zbkviGUN4JA5EkUC4vXyHoMdeszyoBAXhB/AoGASPgfRvfAlfD8+LokkX7c\nVEyM0GNimunmz/dQuQ6MnyBZ6yVjzwIcCx4AoxDZxS0GrnfWzUK+N4XFsRVJKUXM\nEFmbiPTjIOn5ToTtfhROM/89d5x6U1fXtBy508qMS24o7z/vA0ij232qMLDhUe7z\nhoJ+0GDyi44v6FqMmBhvbDA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@muliplier-bot-iyl9.iam.gserviceaccount.com",
+  "client_id": "101882403269301649204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40muliplier-bot-iyl9.iam.gserviceaccount.com"
+}
